@@ -1,0 +1,42 @@
+body {
+	margin: 0 auto;
+	font-family: 'Lato';
+	font-size: 16px;
+}
+
+.carousel {
+	margin-top: -50px;
+}
+
+.text {
+	padding-top: 50px;
+	margin-top: -50px;
+}
+
+.text h1{
+	margin-top: -50px; 
+}
+
+h1 {
+	margin-top: 0;
+	margin-bottom: 40px;
+	font-size: 50px;
+	font-weight: lighter;
+	line-height: 70px;
+}
+
+.btn1 {
+	background-color: #0071BC;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	padding: 10px;
+}
+
+.btn2 {
+	background-color: #8CC63F;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	padding: 10px;
+}
